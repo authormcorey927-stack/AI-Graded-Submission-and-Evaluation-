@@ -1,1 +1,12 @@
 curl -X GET https://api.github.com/repos/authormcorey927-stack/AI-Graded-Submission-and-Evaluation/pulls
+
+[
+  {
+    "url": "...",
+    "id": ...,
+    "number": ...,
+    "state": "open",
+    "title": "Shipping calculation",
+    ...
+  }
+]
